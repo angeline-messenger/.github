@@ -4,7 +4,7 @@ This README is under active construction.
 
 ## Frequently Asked Questions (FAQ)
 ### What is this for?
-This service was primarily designed to increase accessibility to the Bible, followed by easier validation of sermon citations, Bible studies, and anyone looking for more.
+This service is primarily designed to increase accessibility to the Bible, followed by easier validation of sermon citations, Bible studies, and anyone looking for more.
 
 ### Why not a Bible app?
 Accessibility is the foremost concern. I can more easily guarantee that a given user has solid screen reader support for their default messaging app than that of a nuanced graphical interface.
