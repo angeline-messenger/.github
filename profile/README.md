@@ -1,6 +1,6 @@
 # AngeLine
 ## The text-messenger of God.
-This README is under active construction.
+This `README` is under active construction.
 
 ## Frequently Asked Questions (FAQ)
 ### What is this for?
