@@ -1,6 +1,6 @@
 # AngeLine
 ## The text-messenger of God.
-AngeLine is an entirely query-based SMS/MMS messaging service for Biblical sciprture. Supported requests include:
+AngeLine is an entirely query-based SMS/MMS messaging service for Biblical scripture. Supported requests include:
 - Books (URLs)
 - Chapters (under 1600 chars)
 - Verses (Individual and ranges)
