@@ -1,9 +1,23 @@
 # AngeLine
 ## The text-messenger of God.
-AngeLine is an entirely query-based SMS/MMS messaging service for Biblical sciprture. Current features include:
+AngeLine is an entirely query-based SMS/MMS messaging service for Biblical sciprture. Supported requests include:
 - Books (URLs)
 - Chapters (under 1600 chars)
 - Verses (Individual and ranges)
+- Translations (See below)
+
+## Supported Translations
+The translation can be switched by appending an acronomic abbreivation after any valid request (e.g. Matthew 4:19 NASB). The following is an actively changing list of the currently supported translations (alphabetical order):
+- English Standard Version (ESV)
+- King James Version (KJV)
+- New American Standard Bible (NASB, strong)
+- New American Standard Bible (NASU, updated)
+- New International Version (NIV, 1984)
+- New King James Version (NKJV)
+- New Living Translations (NLT)
+- New Revised Standard Version (NRSV)
+- New Revised Version (RSV)
+- World English Bible (WEB)
 
 ## Frequently Asked Questions (FAQ)
 ### What is this for?
