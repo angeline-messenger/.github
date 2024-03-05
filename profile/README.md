@@ -7,7 +7,7 @@ AngeLine is an entirely query-based SMS/MMS messaging service for Biblical scrip
 - Translations (See below)
 
 ## Supported Translations
-The translation can be switched by appending an acronomic abbreivation after any valid request (e.g. Matthew 4:19 NASB). The following is an actively changing list of the currently supported translations (alphabetical order):
+The translation can be switched by appending the respective acronomic abbreivation after any valid request (e.g. Matthew 4:19 NASB). The following is an actively changing list of the currently supported translations (alphabetical order):
 - English Standard Version (ESV)
 - King James Version (KJV)
 - New American Standard Bible (NASB [Strong])
