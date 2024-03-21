@@ -10,8 +10,8 @@ The translation can be switched by appending the respective acronomic abbreivati
 - EN (English):
  - 21st Century King James Version (KJ21)
  - English Standard Version (ESV)
- - New American Standard Bible (NASB [Strong])
- - New American Standard Bible (NASU [Updated])
+ - New American Standard Bible (NASB, Strong)
+ - New American Standard Bible (NASU, Updated)
  - New International Version (NIV [1984])
  - New King James Version (NKJV)
  - New Living Translation (NLT)
