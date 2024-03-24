@@ -5,7 +5,7 @@ AngeLine is a query-based SMS/MMS messaging service for instant Biblical scriptu
 - Chapters (under 1600 characters)
 - Verses (Individual and ranges)
 ## Supported Translations
-The translation can be specified by appending it's respective abbreviation at the end of any valid request (e.g. Matthew 4:19 NASB). The following is a list of the currently supported translations organized by language:
+The translation can be specified by appending it's respective abbreviation to the end of any valid request (e.g. Matthew 4:19 NASB). The following is a list of the currently supported translations organized by language:
 - Dutch (NL):
   - De Statenvertaling (DSV)
 - English (EN):
