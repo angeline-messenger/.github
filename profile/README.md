@@ -10,15 +10,22 @@ The translation can be switched by appending the respective acronomic abbreivati
 - Dutch (NL):
   - De Statenvertaling (DSV)
 - English (EN):
+  - A Conservative Version (ACV)
+  - Bishops' Bible (BB)
   - 21st Century King James Version (KJ21)
+  - Modern King James Version (MKJV)
   - English Standard Version (ESV)
   - New American Standard Bible (NASB, Strong)
   - New American Standard Bible (NASU, Updated)
   - New International Version (NIV [1984])
+  - New International Version Anglicised (NIVUK)
   - New King James Version (NKJV)
   - New Living Translation (NLT)
   - New Revised Standard Version (NRSV)
+  - Restored Name King James Version (RNKJV)
   - New Revised Version (RSV)
+  - Third Millenium Bible (TMB)
+  - Today's New International Version (TNIV)
   - World English Bible (WEB)
 - Spanish (ES):
   - La Biblia del Oso (OSO)
