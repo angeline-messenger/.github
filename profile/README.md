@@ -17,7 +17,7 @@ The translation can be switched by appending the respective acronomic abbreivati
   - English Standard Version (ESV)
   - New American Standard Bible (NASB, Strong)
   - New American Standard Bible (NASU, Updated)
-  - New International Version (NIV [1984])
+  - New International Version (NIV, 1984)
   - New International Version Anglicised (NIVUK)
   - New King James Version (NKJV)
   - New Living Translation (NLT)
