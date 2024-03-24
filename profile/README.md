@@ -1,12 +1,11 @@
 # AngeLine
 ## The text-messenger of God.
-AngeLine is an entirely query-based SMS/MMS messaging service for instant Biblical scripture. Supported requests include:
+AngeLine is a query-based SMS/MMS messaging service for instant Biblical scripture. Request types include:
 - Books (URLs)
 - Chapters (under 1600 characters)
 - Verses (Individual and ranges)
-- Translations (See below)
 ## Supported Translations
-The translation can be switched by appending the respective acronomic abbreivation after any valid request (e.g. Matthew 4:19 NASB). The following is an actively changing list of the supported translations:
+The translation can be specified by appending it's respective abbreviation at the end of any valid request (e.g. Matthew 4:19 NASB). The following is a list of the currently supported translations organized by language:
 - Dutch (NL):
   - De Statenvertaling (DSV)
 - English (EN):
@@ -31,7 +30,7 @@ The translation can be switched by appending the respective acronomic abbreivati
   - La Biblia del Oso (OSO)
 ## Frequently Asked Questions (FAQ)
 ### What is this for?
-This service is primarily designed to increase accessibility to the Bible, followed by easier validation of sermon citations, Bible studies, and anyone looking for more.
+This service is primarily designed to increase accessibility to the Bible. It is most applicable when facilitating easier validation of sermon citations, Bible studies, and anyone looking for more.
 
 ### Why not a Bible app?
 Accessibility is the foremost concern. I can more easily guarantee that a given user has solid screen reader support for their default messaging app than that of a nuanced graphical interface.
