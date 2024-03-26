@@ -7,28 +7,84 @@ AngeLine is a query-based SMS/MMS messaging service for instant Biblical scriptu
 - Verses (Individual and ranges)
 ## Supported Translations
 The translation can be specified by appending it's respective abbreviation to the end of any valid request (e.g. Matthew 4:19 NASB). The following is a list of the currently supported translations organized by language:
-- Dutch (NL):
+- Basque (baq):
+  - (BHNT)
+- Coptic (cop):
+  - (CNT)
+- Danish (dan):
+  - (D31)
+- Dutch (dut):
   - De Statenvertaling (DSV)
-- English (EN):
-  - A Conservative Version (ACV)
+- English (eng):
+  - (ABC)
+  - Conservative Version (ACV)
+  - American King James Version (AKJV, Strong)
+  - (AMP)
   - Bishops' Bible (BB)
-  - 21st Century King James Version (KJ21)
-  - Modern King James Version (MKJV)
+  - (BBE)
+  - (CEV)
+  - (CJB)
+  - (CVB)
+  - (DBY)
+  - (DRB)
+  - (ERV)
   - English Standard Version (ESV)
+  - (GB)
+  - (GNB)
+  - (GW)
+  - Hollman Christian Standard Bible (HCSB)
+  - (JUB)
+  - 21st Century King James Version (KJ21)
+  - (LITV)
+  - (LXXE)
+  - Modern King James Version (MKJV)
+  - The Message (MSG)
   - New American Standard Bible (NASB, Strong)
   - New American Standard Bible (NASU, Updated)
+  - (NCV)
+  - (NET)
+  - New International Reader's Version (NIRV)
   - New International Version (NIV, 1984)
   - New International Version Anglicised (NIVUK)
+  - (NJB)
   - New King James Version (NKJV)
   - New Living Translation (NLT)
+  - (NLV)
   - New Revised Standard Version (NRSV)
   - Restored Name King James Version (RNKJV)
-  - New Revised Version (RSV)
+  - Revised Standard Version (RSV)
+  - (RWB)
   - Third Millenium Bible (TMB)
   - Today's New International Version (TNIV)
+  - (TRC)
+  - (TW)
   - World English Bible (WEB)
-- Spanish (ES):
+  - Young's Literal Translation (YLT)
+- French (fre):
+  - (DBY)
+  - (DMB)
+  - (LSG)
+  - (OSTr)
+- German (ger):
+  - (ELB, Strong)
+  - (ELB1)
+  - (LB)
+  - (LUTD)
+  - (S00)
+- Italian (ita):
+  - (LND)
+  - (NR2006)
+  - (RIV)
+- Latin (lat):
+  - (NVUL)
+  - (V)
+- Romanian (rum):
+  - (GPS)
+- Spanish (spa):
   - La Biblia del Oso (OSO)
+  - (RV09)
+- Swedish (swe):
+  - (S17)
 ## Frequently Asked Questions (FAQ)
 ### What is this for?
 This service is primarily designed to increase accessibility to the Bible. It is most applicable when facilitating easier validation of sermon citations, Bible studies, and anyone looking for more.
