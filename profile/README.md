@@ -44,7 +44,7 @@ The translation can be specified by appending it's respective abbreviation to th
   - New American Standard Bible (NASU, Updated)
   - New Century Version (NCV)
   - New English Translation with Full Notes (NET)
-  - New International Reader's Version (NIRV)
+  - New International Reader's Version (NIrV)
   - New International Version (NIV, 1984)
   - New International Version Anglicised (NIVUK)
   - New Jerusalem Bible (NJB)
