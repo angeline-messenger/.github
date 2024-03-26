@@ -17,7 +17,7 @@ The translation can be specified by appending it's respective abbreviation to th
 - Dutch (dut):
   - De Statenvertaling (DSV)
 - English (eng):
-  - Apostle's Bible Complete (ABC)
+  - Apostles' Bible Complete (ABC)
   - Conservative Version (ACV)
   - American King James Version (AKJV, Strong)
   - Amplified Bible (AMP)
@@ -70,7 +70,7 @@ The translation can be specified by appending it's respective abbreviation to th
 - German (ger):
   - Elberfelder (ELB, Strong)
   - Elberfelder Bibel (ELB1)
-  - Lutherbibel(LB)
+  - Lutherbibel (LB)
   - Lutherbibel mit Apokryphen (LUTD)
   - Schlachter-Bibel (S00)
 - Italian (ita):
