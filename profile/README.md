@@ -41,7 +41,7 @@ The translation can be specified by appending it's respective abbreviation to th
   - Modern King James Version (MKJV)
   - The Message (MSG)
   - New American Standard Bible (NASB, Strong)
-  - New American Standard Bible (NASU, Updated)
+  - New American Standard Bible (NASU)
   - New Century Version (NCV)
   - New English Translation with Full Notes (NET)
   - New International Reader's Version (NIrV)
