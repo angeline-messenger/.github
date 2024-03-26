@@ -27,7 +27,7 @@ The translation can be specified by appending it's respective abbreviation to th
   - (CEV)
   - (CJB)
   - (CVB)
-  - (DBY)
+  - (DBY$${\\color{E}Red}$$)
   - (DRB)
   - (ERV)
   - English Standard Version (ESV)
@@ -63,7 +63,7 @@ The translation can be specified by appending it's respective abbreviation to th
   - World English Bible (WEB)
   - Young's Literal Translation (YLT)
 - French (fre):
-  - (DBY)
+  - (DBY$${\\color{F}Red}$$)
   - (DMB)
   - (LSG)
   - (OSTr)
