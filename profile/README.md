@@ -8,7 +8,7 @@ AngeLine is a query-based SMS/MMS messaging service for instant Biblical scriptu
 ## Supported Translations
 The translation can be specified by appending it's respective abbreviation to the end of any valid request (e.g. Matthew 4:19 NASB). The following is a list of the currently supported translations organized by language in alphabetical order:
 > [!NOTE]
-> To resolve namespace conflicts between the language variations of Darby's Bible (DBY), for versions other than English, the first singular letter of the ISO 639-2 language code may be appended to the abbreviation (e.g. For french, one would type "DBYF").
+> To resolve namespace conflicts between the various translations of Darby's Bible (DBY), for versions other than English, the first singular letter of the ISO 639-2 language code may be appended to the abbreviation (e.g. For french, one would type "DBYF").
 - Basque (baq):
   - Navarro-Labourdin (BHNT)
 - Coptic (cop):
