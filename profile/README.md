@@ -35,7 +35,6 @@ The translation can be specified by appending it's respective abbreviation to th
   - Good News Bible (GNB)
   - God's Word (GW)
   - Holman Christian Standard Bible (HCSB)
-  - English Jubilee Bible (EJB)
   - 21st Century King James Version (KJ21)
   - Green's Literal Translation (LITV)
   - English version of the Septuagint Bible (LXXE)
